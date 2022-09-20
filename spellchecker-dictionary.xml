@@ -7,6 +7,9 @@
       <w>reshare</w>
       <w>reshares</w>
       <w>socialhp</w>
+      <w>tsquery</w>
+      <w>tsvector</w>
+      <w>websearch</w>
     </words>
   </component>
 </application>
