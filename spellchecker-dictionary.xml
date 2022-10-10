@@ -15,6 +15,7 @@
       <w>socialhp</w>
       <w>tsquery</w>
       <w>tsvector</w>
+      <w>uidx</w>
       <w>websearch</w>
     </words>
   </component>
