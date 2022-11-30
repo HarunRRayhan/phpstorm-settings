@@ -18,6 +18,8 @@
       <w>reshare</w>
       <w>reshares</w>
       <w>socialhp</w>
+      <w>superadmin</w>
+      <w>teamadmin</w>
       <w>tsquery</w>
       <w>tsvector</w>
       <w>uidx</w>
