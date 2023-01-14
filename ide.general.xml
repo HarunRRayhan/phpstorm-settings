@@ -1,7 +1,4 @@
 <application>
-  <component name="GeneralSettings">
-    <option name="showTipsOnStartup" value="false" />
-  </component>
   <component name="Registry">
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
@@ -15,6 +12,8 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="ide.experimental.ui" value="true" />
+    <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="editor.focus.mode.color.light" value="415967" />
