@@ -23,6 +23,7 @@
       <w>tsquery</w>
       <w>tsvector</w>
       <w>uidx</w>
+      <w>unscheduleable</w>
       <w>updatemanager</w>
       <w>websearch</w>
       <w>xing</w>
